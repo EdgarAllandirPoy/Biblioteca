@@ -1,0 +1,32 @@
+.container {
+    display: flex;
+    flex-direction: column;
+   
+}
+.sinpe {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: 90vh;
+    padding: 10px;
+}
+
+input {
+    height: 45px;
+    width: 200px;
+    
+}
+
+button {
+    height: 40px;
+    width: 100px;
+   
+
+}
+.botao {
+    justify-content: space-around;
+    display: flex;
+    text-align: center;
+}
+
