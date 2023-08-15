@@ -30,3 +30,7 @@ button {
     text-align: center;
 }
 
+#carrosselImagem {
+    width: 300px;
+    height: 500px;
+}
